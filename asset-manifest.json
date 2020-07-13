@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/memes/static/css/main.d6e44061.chunk.css",
+    "main.js": "/memes/static/js/main.3f54b1a7.chunk.js",
+    "main.js.map": "/memes/static/js/main.3f54b1a7.chunk.js.map",
+    "runtime-main.js": "/memes/static/js/runtime-main.ebec3f31.js",
+    "runtime-main.js.map": "/memes/static/js/runtime-main.ebec3f31.js.map",
+    "static/js/2.92d8c5ca.chunk.js": "/memes/static/js/2.92d8c5ca.chunk.js",
+    "static/js/2.92d8c5ca.chunk.js.map": "/memes/static/js/2.92d8c5ca.chunk.js.map",
+    "index.html": "/memes/index.html",
+    "precache-manifest.fcb5771ddf05de5bc08a303b1ff86655.js": "/memes/precache-manifest.fcb5771ddf05de5bc08a303b1ff86655.js",
+    "service-worker.js": "/memes/service-worker.js",
+    "static/css/main.d6e44061.chunk.css.map": "/memes/static/css/main.d6e44061.chunk.css.map",
+    "static/js/2.92d8c5ca.chunk.js.LICENSE.txt": "/memes/static/js/2.92d8c5ca.chunk.js.LICENSE.txt",
+    "static/media/troll.png": "/memes/static/media/troll.0e98ce77.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebec3f31.js",
+    "static/js/2.92d8c5ca.chunk.js",
+    "static/css/main.d6e44061.chunk.css",
+    "static/js/main.3f54b1a7.chunk.js"
+  ]
+}
